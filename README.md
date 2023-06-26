@@ -5,7 +5,7 @@ Designate high-sensitivity areas, where unmanaged encampments are presumed to ca
 Designate low-sensitivity areas, where enforcement will not be prioritized.
 See https://www.oaklandca.gov/topics/encampment-management-team. 
 
-I created this stacked bar in chart using data taken from the City of Oakland Data Hub to show the share of high sensitivity and low sensitive areas per defined district. Data was parsed using Python Pandas from strings in a CSV file, before being converted to an excel file. 
+I created this stacked bar in chart using data taken from the City of Oakland Data Hub to show the share of high sensitivity and low sensitive areas per defined district. Data was parsed using Python Pandas from strings in a CSV file, before being converted to an excel file for Tableau visualization. 
 
 Data is from https://www.oaklandca.gov/topics/encampment-management-team. 
 
