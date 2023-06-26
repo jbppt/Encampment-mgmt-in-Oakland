@@ -1,6 +1,6 @@
 # Encampment-mgmt-in-Oakland
 
-<img src='Tableau_viz_camp_mgmt.png' width='500'>
+<img src='Tableau_viz_camp_mgmt.png' width='700'>
 
 In October of 2020, the Oakland City Council adopted an Encampment Management Policy for Unhoused Residents. The policy aims to: 
 Designate high-sensitivity areas, where unmanaged encampments are presumed to cause unreasonably high levels of health and safety impacts due to the nature of the location;
